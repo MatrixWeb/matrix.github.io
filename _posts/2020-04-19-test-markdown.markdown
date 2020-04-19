@@ -1,4 +1,3 @@
-```
 ---
 layout:       post
 title:        "test-markdown"
@@ -14,7 +13,6 @@ tags:
     - JavaScript
     - PWA
 ---
-```
 
 #### test
 
