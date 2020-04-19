@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Matrix Blog
+SEOTitle: 林宜斌的博客 | M
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "关于前端与设计、黑客与画家 | 林宜斌，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux林宜斌 的个人博客，与你一起发现更大的世界。"
+keyword: "林宜斌, Matrix林宜斌, Matrix, Matrixlin, @matrixlin, 林宜斌的博客, Matrix Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     matrixlin
+zhihu_username:     matrixlin
+github_username:    matrixlin
+twitter_username:   matrixlin
+#facebook_username:  matrixlin
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/conan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
