@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-  repository: https://github.com/MatrixWeb/matrix.github.io
+  repository: https://github.com/MatrixWeb/matrixweb.github.io
   branch: master
